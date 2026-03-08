@@ -1,0 +1,14 @@
+# 添加直连规则示例
+
++rules:
+  - "DOMAIN-SUFFIX,baidu.com,DIRECT"
+  - "DOMAIN-SUFFIX,tencent.com,DIRECT"
+  - "DOMAIN-SUFFIX,linux.do,DIRECT"
+  - "DOMAIN-SUFFIX,m-team.cc,DIRECT"
+  - "DOMAIN-SUFFIX,javcdn.cc,PROXY"
+  - DOMAIN-KEYWORD,m-team,DIRECT
+  - DOMAIN-KEYWORD,xsijishe,PROXY
+  - DOMAIN-KEYWORD,sjs47,PROXY
+  - DOMAIN-KEYWORD,urlimage,PROXY
+  - DOMAIN-KEYWORD,javcdn,PROXY
+  - DOMAIN-KEYWORD,javbus,PROXY
