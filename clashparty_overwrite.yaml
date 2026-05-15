@@ -1,7 +1,19 @@
 # 添加直连规则示例
 
++proxy-groups:
+  - name: AIGC
+    +proxies:      # 👈 注意这里有个 + 号，代表追加
+      - PROXY
+  - name: Google
+    +proxies:      # 👈 注意这里有个 + 号，代表追加
+      - PROXY
+  - name: Telegram
+    +proxies:      # 👈 注意这里有个 + 号，代表追加
+      - PROXY
+
 +rules:
   - DOMAIN-SUFFIX,baidu.com,DIRECT
+  - DOMAIN-SUFFIX,bing.cn,DIRECT
   - DOMAIN-SUFFIX,tencent.com,DIRECT
   - DOMAIN-SUFFIX,linux.do,DIRECT
   - DOMAIN-SUFFIX,903030.xyz,DIRECT
