@@ -38,7 +38,7 @@ if (rawText) {
         "DOMAIN-SUFFIX,linux.do,DIRECT",
         "DOMAIN-SUFFIX,903030.xyz,DIRECT",
         "DOMAIN-SUFFIX,m-team.cc,DIRECT",
-        "DOMAIN-SUFFIX,blizzard.cn,DIRECT"，
+        "DOMAIN-SUFFIX,blizzard.cn,DIRECT",
         "DOMAIN-SUFFIX,javcdn.cc,PROXY",
         "DOMAIN-KEYWORD,m-team,DIRECT",
         "DOMAIN-KEYWORD,xsijishe,PROXY",
