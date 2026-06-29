@@ -35,7 +35,7 @@ if (rawText) {
         "DOMAIN-SUFFIX,baidu.com,DIRECT",
         "DOMAIN-SUFFIX,bing.cn,DIRECT",
         "DOMAIN-SUFFIX,tencent.com,DIRECT",
-        "DOMAIN-SUFFIX,linux.do,DIRECT",
+        // "DOMAIN-SUFFIX,linux.do,DIRECT",
         "DOMAIN-SUFFIX,903030.xyz,DIRECT",
         "DOMAIN-SUFFIX,m-team.cc,DIRECT",
         "DOMAIN-SUFFIX,hdfans.org,DIRECT",
