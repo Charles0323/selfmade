@@ -46,7 +46,8 @@ if (rawText) {
         "DOMAIN-KEYWORD,sjs47,PROXY",
         "DOMAIN-KEYWORD,urlimage,PROXY",
         "DOMAIN-KEYWORD,javcdn,PROXY",
-        "DOMAIN-KEYWORD,javbus,PROXY"
+        "DOMAIN-KEYWORD,javbus,PROXY",
+        "DOMAIN-SUFFIX,xiunice.com,PROXY"
       ];
 
       // 使用 unshift.apply 或者是扩展运算符，把这些规则整体“怼”到 Clash 原有规则的最上面
