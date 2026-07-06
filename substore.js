@@ -47,6 +47,7 @@ if (rawText) {
         "DOMAIN-KEYWORD,urlimage,PROXY",
         "DOMAIN-KEYWORD,javcdn,PROXY",
         "DOMAIN-KEYWORD,javbus,PROXY",
+        // "DOMAIN-KEYWORD,javbus,PROXY",
         "DOMAIN-SUFFIX,xiunice.com,PROXY"
       ];
 
