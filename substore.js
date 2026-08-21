@@ -67,7 +67,7 @@ if (rawText) {
         "DOMAIN-SUFFIX,github.com,PROXY",
         "DOMAIN-KEYWORD,m-team,DIRECT",
         "DOMAIN-KEYWORD,xsijishe,PROXY",
-        "DOMAIN-KEYWORD,sjs47,PROXY",
+        "DOMAIN-KEYWORD,sjs,PROXY",
         "DOMAIN-KEYWORD,urlimage,PROXY",
         "DOMAIN-KEYWORD,javcdn,PROXY",
         "DOMAIN-KEYWORD,javbus,PROXY",
