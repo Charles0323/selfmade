@@ -63,6 +63,7 @@ if (rawText) {
         "DOMAIN-SUFFIX,m-team.cc,DIRECT",
         "DOMAIN-SUFFIX,hdfans.org,DIRECT",
         "DOMAIN-SUFFIX,blizzard.cn,DIRECT",
+        "DOMAIN-SUFFIX,bambulab.cn,DIRECT",
         "DOMAIN-SUFFIX,javcdn.cc,PROXY",
         "DOMAIN-SUFFIX,github.com,PROXY",
         "DOMAIN-KEYWORD,m-team,DIRECT",
